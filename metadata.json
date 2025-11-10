@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Exam Voice Assistant",
+  "description": "An AI-powered voice assistant to help you understand complex exam topics. Ask questions with your voice and get clear, spoken explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
